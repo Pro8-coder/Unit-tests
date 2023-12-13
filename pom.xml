@@ -64,7 +64,6 @@
         <version>3.141.59</version> <!-- Замените на актуальную версию Selenium WebDriver -->
     </dependency>
 
-
     <dependency>
         <groupId>org.jacoco</groupId>
         <artifactId>org.jacoco.core</artifactId>
