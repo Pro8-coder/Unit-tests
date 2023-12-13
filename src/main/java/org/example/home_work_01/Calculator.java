@@ -3,6 +3,8 @@
 // Если метод calculateDiscount получает недопустимые аргументы, он должен выбрасывать исключение ArithmeticException.
 // Не забудьте написать тесты для проверки этого поведения.
 
+package org.example.home_work_01;
+
 public class Calculator {
     public double calculateDiscount(double purchaseAmount, double discountPercentage) {
         if (purchaseAmount < 0 || discountPercentage < 0 || discountPercentage > 100) {
