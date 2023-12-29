@@ -1,0 +1,10 @@
+(home_work_06) PS G:\it\GeekBrains\Unit-tests\untitled\src\main\java\org\example\home_work_06> pylint task1.py
+************* Module task1
+task1.py:43:8: R1705: Unnecessary "elif" after "return", remove the leading "el" from "elif" (no-else-return)
+task1.py:34:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 8.00/10 (previous run: 8.00/10, +0.00)
+
+Как я его понимаю он ошибочно просит меня изменить elif на if.
+Так же просит добавить методов в класс, что не требуется
